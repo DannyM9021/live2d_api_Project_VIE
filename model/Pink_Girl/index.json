@@ -2,9 +2,7 @@
 	"version":"1.0.0",
 	"model":"PinkGirl.moc3",
     "textures":[
-		"../Potion-Maker/Pio/textures/default-costume.png",
-        "textures/texture_01.png",
-        "textures/texture_02.png"
+		"../Potion-Maker/Pio/textures/default-costume.png"
     ],
     "expressions": [
         {"name":"Boring","file":"expressions/Boring.exp.json"},
