@@ -3,7 +3,6 @@
 	"model":"PinkGirl.moc3",
     "textures":[
 		"../Potion-Maker/Pio/textures/default-costume.png",
-        "textures/texture_00.png",
         "textures/texture_01.png",
         "textures/texture_02.png"
     ],
